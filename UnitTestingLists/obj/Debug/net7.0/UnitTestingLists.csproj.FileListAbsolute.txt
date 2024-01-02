@@ -1,0 +1,14 @@
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\bin\Debug\net7.0\UnitTestingLists.exe
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\bin\Debug\net7.0\UnitTestingLists.deps.json
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\bin\Debug\net7.0\UnitTestingLists.runtimeconfig.json
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\bin\Debug\net7.0\UnitTestingLists.dll
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\bin\Debug\net7.0\UnitTestingLists.pdb
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\obj\Debug\net7.0\UnitTestingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\obj\Debug\net7.0\UnitTestingLists.AssemblyInfoInputs.cache
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\obj\Debug\net7.0\UnitTestingLists.AssemblyInfo.cs
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\obj\Debug\net7.0\UnitTestingLists.csproj.CoreCompileInputs.cache
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\obj\Debug\net7.0\UnitTestingLists.dll
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\obj\Debug\net7.0\refint\UnitTestingLists.dll
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\obj\Debug\net7.0\UnitTestingLists.pdb
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\obj\Debug\net7.0\UnitTestingLists.genruntimeconfig.cache
+C:\Users\oyetu\source\repos\E3\UnitTestingLists\UnitTestingLists\obj\Debug\net7.0\ref\UnitTestingLists.dll
