@@ -9,7 +9,7 @@ namespace UnitTestingLists.Implementations
 {
     public class ListService : IListService
     {
-        public static List<string> _list;
+        private static List<string> _list;
         public ListService()
         {
             _list = new List<string> {"Apple", "Orange", "Pear", "Watermelon", "Lemon","Lime" };
